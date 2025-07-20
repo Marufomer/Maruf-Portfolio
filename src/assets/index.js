@@ -50,7 +50,7 @@ import microverse from './company/microverse.png';
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
 import schoolsmart from './projects/school-smart.png';
-import alxforum from './projects/alx-from.png';
+import alxforum from './projects/Alx-from.png';
 import abe from './projects/abe.png';
 import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
